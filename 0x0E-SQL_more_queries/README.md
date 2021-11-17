@@ -11,5 +11,5 @@
 * Suggested Style Guide: SQLStyle
 * Usage: cat [filename] | mysql -hlocalhost -uroot -p [database]
 
-### Auuthors
+### Authors
 Mohamed Hassan
