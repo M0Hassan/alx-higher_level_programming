@@ -2,8 +2,8 @@
 > This repo shows sample code of how to use jQuery (Javascript library.)
 
 ### Resources
-* [sample JavaScript](https://developer.mozilla.org/en-US/docs/Learn/J\
-avaScript/First_steps/What_is_JavaScript) JQuery
+* (sample JavaScript)[https://developer.mozilla.org/en-US/docs/Learn/J\
+avaScript/First_steps/What_is_JavaScript] JQuery
 * [Selector](https://jquery-tutorial.net/selectors/using-elements-ids-a\
 nd-classes/) [Get and set content](https://jquery-tutorial.net/dom-man\
 ipulation/getting-and-setting-content/) [Manipulate CSS classes](https://jquery-tutorial.net/dom-manipulation/getting-and-setting-css-classes/)
